@@ -42,10 +42,12 @@
 - **项目介绍**：APP是一个表情分享的工具。用户可以使用APP把丰富的表情分享到彩信，微信和新浪微博。通过网络也可以添加更多的表情。
 - **负责内容**：参与了部分界面UI的开发和后期的维护。
 - **iTunes**：https://itunes.apple.com/cn/app/wei-xin-dong-hua-biao-qing/id518997305?mt=8
+
 #### 暴走Maker
 - **项目介绍**：APP是一个简单的暴走漫画的制作器。使用APP能制作简单的暴走漫画并且分享到社交网站。
 - **负责内容**：参与了部分UI和功能的开发和后期的维护。
 - **iTunes**：https://itunes.apple.com/cn/app/wei-xin-dong-hua-biao-qing/id518997305?mt=8
+
 #### 拼图公园
 - **项目介绍**：APP是一个给照片添加文字和小图片的修图软件。
 - **负责内容**：参与了后期的维护。
