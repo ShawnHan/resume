@@ -85,5 +85,7 @@ APP中，主要用Bluetooth.framework来完成低功耗蓝牙的通信。自定�
 - **iTunes连接**：https://itunes.apple.com/cn/app/pin-tu-gong-yuan-bai-zhong/id496192235?mt=8
 
 ---
-##致谢
-感谢您花时间阅读我的简历，期待能有机会和您共事。
+##教育背景
+北华航天工业学院
+2007年9月~2011年7月
+通信工程
