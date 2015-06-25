@@ -15,7 +15,7 @@
 ## 自我评价
 <p>
 经过三年的创业公司的工作，自己能完全承担起APP客户端的需求分析、功能设计和架构设计，独立完成APP的代码编写和优化，独立完成App Store的上线，负责APP的性能优化和功能扩展，通过日志收集及统计分析，对APP进行升级和维护。<p>
-有扎实的Objective-C/C编程功底，了解Swift，有丰富的UI界面开发经验，能运用cocoapods管理第三方库，熟练使用Xcode、Instrument和Testflight等工具，能够对移动应用的性能进行分析和优化，熟悉Cocoa、UIKit和iOS SDK，掌握使用Git进行版本管理，有独立的项目经验和App Store上线经验。对新技术持有敏感性以及愿意致力于新技术的探索和研究。
+有扎实的Objective-C/C编程功底，了解Swift，有丰富的UI界面开发经验，能运用CocoaPods管理第三方库，熟练使用Xcode、Instrument和Testflight等工具，能够对移动应用的性能进行分析和优化，熟悉Cocoa、UIKit和iOS SDK，掌握使用Git进行版本管理，有独立的项目经验和App Store上线经验。对新技术持有敏感性以及愿意致力于新技术的探索和研究。
 
 
 
